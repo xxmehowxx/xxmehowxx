@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Michał Juśkiewicz 👋
 
-<!--
-**xxmehowxx/xxmehowxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An experienced **IT Administrator** and **Aspiring DevOps Engineer** focused on automation, infrastructure reliability, and continuous learning. I effectively bridge the gap between traditional system administration and modern DevOps practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+#### 🐧 Operating Systems & Infrastructure
+![Linux](https://shields.io)
+![Ubuntu](https://shields.io)
+![Proxmox](https://shields.io)
+![AWS](https://shields.io)
+
+#### 🐋 DevOps & Containerization
+![Docker](https://shields.io)
+![Nginx](https://shields.io)
+![Git](https://shields.io)
+![Bash](https://shields.io)
+
+#### 🔒 Networking & Security
+![Fortinet](https://shields.io)
+![SSH](https://shields.io)
+
+---
+
+### 🧪 What I'm working on right now:
+*   **Homelab Evolution:** Managing a local virtualized environment based on **Proxmox VE** and **Linux (Ubuntu Server)**.
+*   **Automation:** Writing robust **Bash** scripts for automated system backups and routine administrative tasks.
+*   **Containers:** Deploying and maintaining containerized services using **Docker & Docker Compose** behind an **Nginx Reverse Proxy**.
+*   **Education:** Expanding my computer science fundamentals at *Europejska Uczelnia w Warszawie* (B.Eng. program).
+
+---
+
+### 📬 Connect with me:
+🌐 [Personal Website](https://madmik.pl) | 💼 [LinkedIn](https://linkedin.com) | ✉️ x.x.mehow.x.x@gmail.com
