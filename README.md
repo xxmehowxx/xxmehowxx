@@ -7,6 +7,16 @@ An experienced **IT Administrator** and **Aspiring DevOps Engineer** focused on 
 ### 🛠️ Tech Stack & Tools
 
 #### 🐧 Operating Systems & Infrastructure
+<img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Ubuntu" /> <img src="https://shields.io" alt="Proxmox" /> <img src="https://shields.io" alt="AWS" />
+
+#### 🐋 DevOps & Containerization
+<img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Nginx" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Bash" />
+
+#### 🔒 Networking & Security
+<img src="https://shields.io" alt="FortiGate" /> <img src="https://shields.io" alt="SSH" />
+
+
+#### 🐧 Operating Systems & Infrastructure
 ![Linux](https://shields.io)
 ![Ubuntu](https://shields.io)
 ![Proxmox](https://shields.io)
