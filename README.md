@@ -6,31 +6,13 @@ An experienced **IT Administrator** and **Aspiring DevOps Engineer** focused on 
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🐧 Operating Systems & Infrastructure
-<img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Ubuntu" /> <img src="https://shields.io" alt="Proxmox" /> <img src="https://shields.io" alt="AWS" />
-
-#### 🐋 DevOps & Containerization
-<img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Nginx" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Bash" />
-
-#### 🔒 Networking & Security
-<img src="https://shields.io" alt="FortiGate" /> <img src="https://shields.io" alt="SSH" />
-
-
-#### 🐧 Operating Systems & Infrastructure
-![Linux](https://shields.io)
-![Ubuntu](https://shields.io)
-![Proxmox](https://shields.io)
-![AWS](https://shields.io)
-
-#### 🐋 DevOps & Containerization
-![Docker](https://shields.io)
-![Nginx](https://shields.io)
-![Git](https://shields.io)
-![Bash](https://shields.io)
-
-#### 🔒 Networking & Security
-![Fortinet](https://shields.io)
-![SSH](https://shields.io)
+| Area | Technologies & Tools |
+| :--- | :--- |
+| 🐧 **Operating Systems** | Linux (Ubuntu Server), Windows (Administration & Troubleshooting) |
+| 🐋 **DevOps & Containers** | Docker, Docker Compose, Nginx (Reverse Proxy), Git, GitHub |
+| ⚙️ **Automation & Scripts** | Bash Scripting, Backup Automation, Task Automation |
+| 🔒 **Infrastructure & Nets** | Proxmox VE (Virtualization), FortiGate, VPN, SSH, TCP/IP |
+| ☁️ **Cloud Platforms** | AWS (Basic Core, EC2, SSH Access) |
 
 ---
 
